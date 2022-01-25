@@ -13,7 +13,7 @@ description: CSCI-UA 480 Student, Spring 2022
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/97364509?s=400&u=fa9a8cdf33d68d62808423bc9de0b726632a3a7e&v=4
+avatar: images/icon.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
