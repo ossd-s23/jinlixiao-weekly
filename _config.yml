@@ -9,13 +9,20 @@ name: Your Name
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2022
+description: CSCI-UA 480 Student, Spring 2023
 
 # CUSTOMIZE
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/icon.png 
+# URL of your avatar or profile pic (the image should be located in the images 
+# directory in this repository, or you can change the link to point any image anywhere
+# on the web). Replace "weekly" by the name of your own repository.
+# It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
+# user name for GitHub.
+avatar: /weekly/images/icon.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
+# use this separator in your blogs to indicate where the abbreviated part ends and 
+# the "Read more ..." link apprears 
+excerpt_separator: <!--more-->
 
 # CUSTOMIZE
 #
@@ -28,7 +35,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: ossd-sp22
+  github: ossd-s23
   instagram:
   linkedin:
   pinterest:
@@ -38,12 +45,12 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
-# Your website URL (e.g. https://ossd-sp22.github.io/weekly )
+# Your website URL (e.g. https://ossd-s23.github.io/weekly )
 # Replace the last part by the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-sp22.github.io/weekly"
+url: "https://ossd-s23.github.io/weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
