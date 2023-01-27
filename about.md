@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is Jinli Xiao. I am an undegraduate student at the New York University, having a joint honors major in Computer Science and Mathematics. I am also an ex software engineer intern at Meta. My interests are distributed systems and data-intensive applications.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I am very willing to make new friends and learn new things! Please feel free to contact me.
