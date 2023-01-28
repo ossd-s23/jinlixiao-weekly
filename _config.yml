@@ -9,7 +9,7 @@ name: Jinli Xiao
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
-description: CS Student @ NYU
+description: CS Student
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images
@@ -32,7 +32,7 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jx2076@nyu.edu
+  email:
   facebook:
   flickr:
   github: jinlixiao
