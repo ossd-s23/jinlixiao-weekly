@@ -16,8 +16,11 @@ Replace the first row with your own contribution.
 
 -->
 
-| Date # | Contribution (Link)                                                      | Type           | Description                              |
-| ------ | :----------------------------------------------------------------------- | :------------- | :--------------------------------------- |
-| Jan 30 | [Typo in textbook publisher](https://github.com/joannakl/ossd/issues/34) | course website | Raised and closed an issue about an typo |
-|        |                                                                          |                |                                          |
-|        |                                                                          |                |                                          |
+| Date # | Contribution (Link)                                               | Type            | Description                              |
+| ------ | :---------------------------------------------------------------- | :-------------- | :--------------------------------------- |
+| Jan 30 | [Link](https://github.com/joannakl/ossd/issues/34)                | Course website  | Raised and closed an issue about an typo |
+| Feb 15 | [Link](https://github.com/joannakl/ossd/pull/46#issue-1586165097) | Course website  | Fixed a broken link                      |
+| Feb 19 | [Link](https://edstem.org/us/courses/34501/discussion/2620574)    | Blog            | Commented on a blog issue                |
+| Feb 21 | [Link](https://github.com/ossd-s23/Charlie-XIAO-weekly/issues/2)  | Blog            | Faised an issue about a reference error  |
+| Feb 21 | [Link](https://www.openstreetmap.org/changeset/132838938)         | Open Street Map | Add an Entry for a gym                   |
+| Feb 21 | [Link](https://www.openstreetmap.org/changeset/132839107)         | Open Street Map | Add an Entry for public safety office    |
