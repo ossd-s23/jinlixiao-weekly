@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Feb 21 | [Link](https://www.openstreetmap.org/changeset/132839107)         | Open Street Map | Added an Entry for public safety office                           |
 | Mar 6  | [Link](https://github.com/fncbook/fnc/pull/8)                     | FNC Textbook    | Identified a rendering error and opened a pull request to resolve |
 | Mar 26 | [Link](https://en.wikipedia.org/w/index.php?diff=prev&oldid=1146812219) | Wikipedia | I fixed some syntax inconsistencies                               |
+| Apr 2  | [Link](https://en.wikipedia.org/w/index.php?diff=prev&oldid=1147904295) | Wikipedia | I rendered math into Latex and fixed some typos                   |
