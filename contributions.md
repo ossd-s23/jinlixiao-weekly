@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 | Apr 22 | [Changeset](https://www.openstreetmap.org/changeset/135242939)               | Open Street Map | Updated a location for a citibike dock                            |
 | Apr 23 | [Changeset](https://en.wikipedia.org/w/index.php?diff=prev&oldid=1151425602) | Wikipedia       | I found and added a pending reference                             |
 | Apr 23 | [Changeset](https://en.wikipedia.org/w/index.php?diff=prev&oldid=1151426416) | Wikipedia       | I added more description for the scale of a company               |
+| Apr 23 | [GitHub PR](https://github.com/pandas-dev/pandas/pull/52886)                 | pandas          | I fixed some data propagation issues in NDFrame operations        |
